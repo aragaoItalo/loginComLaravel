@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Requisitos
 
 * PHP 8.2 ou superior
@@ -83,3 +84,6 @@ Criar a model
 ```
 php artisan make:model Conta
 ```
+=======
+# loginComLaravel
+>>>>>>> 064d372a460a2a80f27f56c4889b2122efdd47d7
